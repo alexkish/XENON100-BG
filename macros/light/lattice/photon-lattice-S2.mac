@@ -1,0 +1,20 @@
+/control/execute macros/bot-vis.mac
+
+/tracking/storeTrajectory 0
+
+# detector parameters
+/Xe/detector/setLXeScintillation 1
+/Xe/detector/setTeflonReflectivity 0.95
+/Xe/detector/setLXeAbsorbtionLength 5 m
+/Xe/detector/setLXeRayScatterLength 30.0 cm
+
+/xe/gun/particle opticalphoton
+/xe/gun/energytype Mono
+/xe/gun/energy 7. eV
+/xe/gun/angtype iso
+/xe/gun/numberofparticles 10000
+/xe/gun/type Lattice
+/xe/gun/lattice -185 185 75 -185 185 75 3.75 5.00 1 0
+#/xe/gun/lattice 0 30 2 0 55 2 3.75 5.0 2
+
+/run/beamOn 5625

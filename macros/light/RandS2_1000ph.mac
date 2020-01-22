@@ -1,0 +1,28 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+#/control/execute macros/bot-vis.mac
+
+/tracking/storeTrajectory 0
+
+# detector parameters
+/Xe/detector/setLXeScintillation 1
+/Xe/detector/setTeflonReflectivity 0.95
+/Xe/detector/setLXeAbsorbtionLength 5 m
+/Xe/detector/setLXeRayScatterLength 32.0 cm
+
+/xe/gun/particle opticalphoton
+/xe/gun/energytype Mono
+/xe/gun/energy 7. eV
+/xe/gun/angtype iso
+/xe/gun/numberofparticles 1000
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 152.4 mm
+/xe/gun/center 0 0 3.75 mm
+/xe/gun/halfz 0.5 mm
+
+#/xe/gun/confine LXe
+
