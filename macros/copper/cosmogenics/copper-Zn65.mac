@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 280 mm
+/xe/gun/halfz 600 mm
+/xe/gun/center 0 0 75 mm
+/xe/gun/confine TopPlate* BottomPlate* UpperBasePlate* LowerBasePlate* BottomPmtPlate* TopVetoAngle* BottomVetoAngle* UpperSideVetoAngle* LowerSideVetoAngle*
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 30 65 0 0
+

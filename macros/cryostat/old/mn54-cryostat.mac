@@ -1,0 +1,14 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 260 mm
+/xe/gun/halfz 525 mm
+/xe/gun/center 0 0 75 mm
+/xe/gun/confine CryostatVessel* CryostatLid* Bell*
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 25 54 0 0

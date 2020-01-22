@@ -1,0 +1,14 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 200 mm
+/xe/gun/halfz 60 mm
+/xe/gun/center 0 0 -300 mm
+/xe/gun/confine CathodeGridRing*
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 90 228 0 0
