@@ -1,0 +1,30 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 280 mm
+/xe/gun/halfz 600 mm
+/xe/gun/center 0 0 75 mm
+/xe/gun/confine LXe*
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+
+
+# Rn222 only
+#/grdm/nucleusLimits 222 222 86 86
+
+# Po218
+#/grdm/nucleusLimits 218 222 84 86
+
+# Po214
+/grdm/nucleusLimits 214 222 82 86
+
+# Pb210
+#/grdm/nucleusLimits 210 222 82 86
+
+
+/xe/gun/ion 86 222 0 0
+

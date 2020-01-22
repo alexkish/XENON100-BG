@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 5 mm
+/xe/gun/halfz 110 mm
+/xe/gun/center 160 0 -60 mm
+/xe/gun/confine ResistorChain
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 92 238 0 0
+

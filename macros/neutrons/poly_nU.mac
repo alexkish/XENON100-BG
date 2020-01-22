@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 2000 mm
+/xe/gun/center 0 0 0 mm
+/xe/gun/confine ShieldPolyethylene
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum /home/physik/alexkish/geant4/Xe100/macros/spectra/poly_U.dat
+

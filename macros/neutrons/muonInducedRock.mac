@@ -1,0 +1,14 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/type RandomSphere
+#/xe/gun/shape Sphere
+#/xe/gun/radius 20 m
+#/xe/gun/center 0 0 0 m
+#/xe/gun/confine RockHall*
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum /home/physik/alexkish/geant4/Xe100/alexkish/macros/spectra/nSpectrum_fromRock.dat

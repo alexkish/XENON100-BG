@@ -1,0 +1,20 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+#/xe/gun/type Volume
+#/xe/gun/shape Sphere
+#/xe/gun/radius 2000 mm
+#/xe/gun/center 0 0 0 mm
+#/xe/gun/confine ShieldPolyethylene
+
+/xe/gun/type RandomSphere
+#/xe/gun/shape Sphere
+#/xe/gun/radius 2 m
+#/xe/gun/center 0 0 0 m
+#/xe/gun/confine RockHall*
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum /home/physik/alexkish/geant4/Xe100/alexkish/macros/spectra/concrete_U.dat

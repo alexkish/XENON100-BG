@@ -1,0 +1,21 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 280 mm
+/xe/gun/halfz 600 mm
+/xe/gun/center 0 0 -155 mm
+/xe/gun/confine LXe*
+
+#/xe/gun/energy 0 keV
+#/xe/gun/particle ion
+#/xe/gun/ion 36 85 0 0
+
+/xe/gun/energytype Kr83m
+
+#/xe/gun/particle e-
+#/xe/gun/energy 9.4 keV
+

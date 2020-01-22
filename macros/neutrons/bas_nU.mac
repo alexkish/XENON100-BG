@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Cylinder
+/xe/gun/radius 260 mm
+/xe/gun/halfz 600 mm
+/xe/gun/center 0 0 75 mm
+/xe/gun/confine PmtBase*
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum /home/physik/alexkish/geant4/Xe100/macros/spectra/bas_U.dat
