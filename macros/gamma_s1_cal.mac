@@ -1,0 +1,8 @@
+/control/execute macros/no_verbose.mac
+
+/xe/gun/particle gamma
+/xe/gun/energytype Mono
+/xe/gun/energy 122. keV
+/xe/gun/angtype iso
+/xe/gun/type Point
+/xe/gun/center 0 0 -7.5 cm

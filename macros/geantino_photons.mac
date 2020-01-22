@@ -1,0 +1,15 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/particle geantino
+
+/xe/gun/angtype direction
+
+/xe/gun/center 0.0. -150. mm
+#/xe/gun/center 156. 0. -150. mm - teflon panel
+#/xe/gun/center 160.75 0. -150. mm - resistor chain
+
+/xe/gun/direction 0 0 -1
+

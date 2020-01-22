@@ -1,0 +1,152 @@
+1 0 0
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1      154        0     -150         1        0      154       154 TeflonPanel Transportation
+    2      160        0     -150         1        0      6.4       160 ResistorChain Transportation
+    3      162        0     -150         1        0     1.63       162         LXe Transportation
+    4      200        0     -150         1        0     38.3       200 TeflonSideVetoLining Transportation
+    5      203        0     -150         1        0     3.18       203 CryostatVesselInnerWall Transportation
+    6      205        0     -150         1        0      1.5       205 VacuumCryostatVessel Transportation
+    7      229        0     -150         1        0     23.9       229 CryostatVesselOuterWall Transportation
+    8      230        0     -150         1        0      1.5       230 ShieldCavity Transportation
+    9      400        0     -150         1        0      170       400 ShieldCopper Transportation
+   10      450        0     -150         1        0       50       450 ShieldPolyethylene Transportation
+   11      650        0     -150         1        0      200       650 ShieldInnerLead Transportation
+   12      653        0     -150         1        0        3       653 ShieldFrenchLead Transportation
+   13      700        0     -150         1        0       47       700 ShieldPolishLead Transportation
+   14      850        0     -150         1        0      150       850         Lab Transportation
+   15    2e+03        0     -150         1        0 1.15e+03     2e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+-1 0 0
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1     -154        0     -150         1        0      154       154 TeflonPanel Transportation
+    2     -160        0     -150         1        0      6.4       160         LXe Transportation
+    3     -200        0     -150         1        0     39.9       200 TeflonSideVetoLining Transportation
+    4     -203        0     -150         1        0     3.18       203 CryostatVesselInnerWall Transportation
+    5     -205        0     -150         1        0      1.5       205 VacuumCryostatVessel Transportation
+    6     -229        0     -150         1        0     23.9       229 CryostatVesselOuterWall Transportation
+    7     -230        0     -150         1        0      1.5       230 ShieldCavity Transportation
+    8     -400        0     -150         1        0      170       400 ShieldCopper Transportation
+    9     -450        0     -150         1        0       50       450 ShieldPolyethylene Transportation
+   10     -650        0     -150         1        0      200       650 ShieldInnerLead Transportation
+   11     -653        0     -150         1        0        3       653 ShieldFrenchLead Transportation
+   12     -700        0     -150         1        0       47       700 ShieldPolishLead Transportation
+   13     -850        0     -150         1        0      150       850         Lab Transportation
+   14   -2e+03        0     -150         1        0 1.15e+03     2e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+0 1 0
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1        0      154     -150         1        0      154       154 TeflonPanel Transportation
+    2        0      160     -150         1        0      6.4       160         LXe Transportation
+    3        0      200     -150         1        0     39.9       200 TeflonSideVetoLining Transportation
+    4        0      203     -150         1        0     3.18       203 CryostatVesselInnerWall Transportation
+    5        0      205     -150         1        0      1.5       205 VacuumCryostatVessel Transportation
+    6        0      229     -150         1        0     23.9       229 CryostatVesselOuterWall Transportation
+    7        0      230     -150         1        0      1.5       230 ShieldCavity Transportation
+    8        0      400     -150         1        0      170       400 ShieldCopper Transportation
+    9        0      450     -150         1        0       50       450 ShieldPolyethylene Transportation
+   10        0      650     -150         1        0      200       650 ShieldInnerLead Transportation
+   11        0      653     -150         1        0        3       653 ShieldFrenchLead Transportation
+   12        0      700     -150         1        0       47       700 ShieldPolishLead Transportation
+   13        0      850     -150         1        0      150       850         Lab Transportation
+   14        0    2e+03     -150         1        0 1.15e+03     2e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+0 -1 0
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1        0     -154     -150         1        0      154       154 TeflonPanel Transportation
+    2        0     -160     -150         1        0      6.4       160         LXe Transportation
+    3        0     -200     -150         1        0     39.9       200 TeflonSideVetoLining Transportation
+    4        0     -203     -150         1        0     3.18       203 CryostatVesselInnerWall Transportation
+    5        0     -205     -150         1        0      1.5       205 VacuumCryostatVessel Transportation
+    6        0     -229     -150         1        0     23.9       229 CryostatVesselOuterWall Transportation
+    7        0     -230     -150         1        0      1.5       230 ShieldCavity Transportation
+    8        0     -400     -150         1        0      170       400 ShieldCopper Transportation
+    9        0     -450     -150         1        0       50       450 ShieldPolyethylene Transportation
+   10        0     -650     -150         1        0      200       650 ShieldInnerLead Transportation
+   11        0     -653     -150         1        0        3       653 ShieldFrenchLead Transportation
+   12        0     -700     -150         1        0       47       700 ShieldPolishLead Transportation
+   13        0     -850     -150         1        0      150       850         Lab Transportation
+   14        0   -2e+03     -150         1        0 1.15e+03     2e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+0 0 1
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1        0        0    -25.1         1        0      125       125 BottomGridMesh Transportation
+    2        0        0    -24.9         1        0     0.13       125         LXe Transportation
+    3        0        0    -21.5         1        0     3.44       128         GXe Transportation
+    4        0        0      -20         1        0     1.51       130 AnodeGridMesh Transportation
+    5        0        0    -19.9         1        0     0.13       130         GXe Transportation
+    6        0        0    -14.9         1        0     4.95       135 TopGridMesh Transportation
+    7        0        0    -14.8         1        0     0.13       135         GXe Transportation
+    8        0        0     -3.6         1        0     11.2       146 TopPmtTeflonHolder Transportation
+    9        0        0     27.5         1        0     31.1       178         GXe Transportation
+   10        0        0       66         1        0     38.5       216        Bell Transportation
+   11        0        0     68.5         1        0      2.5       218         LXe Transportation
+   12        0        0      134         1        0     65.3       284     VetoGXe Transportation
+   13        0        0      204         1        0       70       354 CryostatLidInnerWallDome Transportation
+   14        0        0      205         1        0      1.5       355 ShieldCavity Transportation
+   15        0        0      231         1        0     25.4       381 CryostatLidOuterWallDome Transportation
+   16        0        0      232         1        0      1.5       382 ShieldCavity Transportation
+   17        0        0      522         1        0      290       672 ShieldCopper Transportation
+   18        0        0      575         1        0     52.5       725 ShieldPolyethylene Transportation
+   19        0        0      775         1        0      200       925 ShieldInnerLead Transportation
+   20        0        0      778         1        0        3       928 ShieldFrenchLead Transportation
+   21        0        0      825         1        0       47       975 ShieldPolishLead Transportation
+   22        0        0      975         1        0      150  1.12e+03         Lab Transportation
+   23        0        0    2e+03         1        0 1.02e+03  2.15e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+0 0 -1
+****************************************************************************************************************
+* G4Track Information:   Particle = geantino,   Track ID = 1,   Parent ID = 0
+****************************************************************************************************************
+
+Step#    X(mm)    Y(mm)    Z(mm) KinE(MeV)  dE(MeV) StepLeng TrackLeng  NextVolume ProcName
+    0        0        0     -150         1        0        0         0         LXe initStep
+    1        0        0     -328         1        0      178       178 CathodeGridMesh Transportation
+    2        0        0     -328         1        0     0.13       178         LXe Transportation
+    3        0        0     -375         1        0     47.1       225 BottomPmtPlate Transportation
+    4        0        0     -378         1        0      2.5       228         LXe Transportation
+    5        0        0     -481         1        0      103       331 CryostatVesselInnerWallDome Transportation
+    6        0        0     -482         1        0    0.987       332 VacuumCryostatVessel Transportation
+    7        0        0     -507         1        0     25.4       357 CryostatVesselOuterWallDome Transportation
+    8        0        0     -508         1        0     1.02       358 ShieldCavity Transportation
+    9        0        0     -572         1        0     64.1       422 ShieldCopper Transportation
+   10        0        0     -575         1        0      2.5       425 ShieldPolyethylene Transportation
+   11        0        0     -775         1        0      200       625 ShieldInnerLead Transportation
+   12        0        0     -778         1        0        3       628 ShieldFrenchLead Transportation
+   13        0        0     -825         1        0       47       675 ShieldPolishLead Transportation
+   14        0        0     -975         1        0      150       825         Lab Transportation
+   15        0        0   -2e+03         1        0 1.02e+03  1.85e+03  OutOfWorld Transportation
+****************************************************************************************************************
+
+
+
+
