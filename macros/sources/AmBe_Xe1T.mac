@@ -1,0 +1,13 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Point
+/xe/gun/center -30.19 -2.64 -19.37 cm
+
+/xe/gun/confine CalibrationSource*
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum ../spectra/ambe_data_2col.dat

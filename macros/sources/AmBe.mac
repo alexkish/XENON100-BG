@@ -1,0 +1,16 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 10 mm
+#/xe/gun/center -30.19 -2.64 -17.22 cm
+/xe/gun/center -30.19 -2.64 -19.37 cm
+
+/xe/gun/confine CalibrationSource*
+
+/xe/gun/particle neutron
+/xe/gun/energytype Spectrum
+/xe/gun/energyspectrum ../spectra/AmBe.dat

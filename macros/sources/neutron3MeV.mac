@@ -1,0 +1,22 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Point
+#/xe/gun/shape Sphere
+#/xe/gun/radius 10 mm
+#/xe/gun/center -30.19 -2.64 -17.22 cm
+#/xe/gun/center -30.19 -2.64 -19.37 cm
+/xe/gun/center 0. 0. 0. cm
+
+#/xe/gun/confine CalibrationSource*
+
+#/xe/gun/particle neutron
+#/xe/gun/energytype Spectrum
+#/xe/gun/energyspectrum ../spectra/AmBe.dat
+
+/xe/gun/angtype direction
+/xe/gun/direction 0 0 -1
+/xe/gun/particle neutron
+/xe/gun/energy 3.0 MeV

@@ -1,0 +1,18 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 5 mm
+#/xe/gun/halfz 500 mm
+
+#center of the collimator X=245
+/xe/gun/center 247 0. 384.5 mm
+/xe/gun/confine CalibrationSource*
+
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 55 137 0 0
+

@@ -1,0 +1,17 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 40 mm
+/xe/gun/center 28.6 10.1 -17.22 cm
+/xe/gun/confine CalibrationSource*
+
+#/xe/gun/angtype iso
+
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 27 60 0 0
+
